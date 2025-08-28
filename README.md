@@ -8,3 +8,4 @@ For running from source, it was developed with Python 3.11 and you'll need a ven
 
 This is a BSD license so use it as you like.
 
+<img width="1598" height="1332" alt="image" src="https://github.com/user-attachments/assets/46e8f768-7e19-40c2-bf91-6da8ef02988d" />
